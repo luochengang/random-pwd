@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1636509718 source:e:\random-pwd\random-pwd\getrandpwd\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+
+1636509718 source:e:\github\random-pwd\getrandpwd\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+
