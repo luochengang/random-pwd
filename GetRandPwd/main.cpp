@@ -57,6 +57,7 @@ int main()
         }
 		output << endl;
 	}
+    
     cout << "完成生成密码" << endl;
 
     return 0;
